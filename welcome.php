@@ -30,7 +30,7 @@
 	            $results = $wpdb->get_results($sql);
 	            ?>
 
-<?php print_r($index); ?>
+<?php print_r($index1); ?>
 	            <?php print_r($index2); ?>
 	            <?php print_r($index3); ?>
 
