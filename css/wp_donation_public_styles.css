@@ -1,0 +1,34 @@
+/*
+ * Wp Donation Public Styles
+ * Styled used for the front-end of the website
+ */
+
+/*clearfix*/
+.cf:before,
+.cf:after {
+    content: " "; 
+    display: table; /
+}
+.cf:after {
+    clear: both;
+}
+
+/*donation listing*/
+.donation_list{
+	float: left;
+	width: 100%;
+}
+.donation_list .donation{
+	float: left;
+	width: 100%;
+}
+.donation_list .donation img{
+	margin: 0px 15px 15px 0px;
+	float: left;
+}
+.donation_list .donation .phone_email{
+	clear: both;
+}
+.donation_list .donation .readmore{
+	
+}
