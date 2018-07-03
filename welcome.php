@@ -35,7 +35,6 @@
 	            <?php print_r($index2); ?>
 	            <?php print_r($index3); ?>
 	            <?php print_r($index4); ?>
-	            <?php print_r($index5); ?>
 
 	            <?php
 	            foreach($results as $index => $value) {
